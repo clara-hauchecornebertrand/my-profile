@@ -1,0 +1,46 @@
+body {
+  color: black;
+  background-color: black;
+}
+
+a {
+  color: #AF6EFD;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: #5614A4;
+  text-decoration: underline;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+.img-bordered {
+  border: 10px solid black;
+}
+
+#leader {
+  box-shadow: 0px 10px 10px rgba(0,0,0,0.9);
+}
+
+h1{
+	font-size: 32px;
+	color: #AF6EFD;
+	font-family: 'Playfair Display', serif;
+}
+
+h2{
+	font-size: 16px;
+	color: rgb(93, 92, 92);
+}
+
+h3{
+	font-size: 24px;
+	color: black;
+	font-family: 'Staatliches', cursive;
+}
+
+li{
+	list-style-type: none;
+}
